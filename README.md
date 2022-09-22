@@ -1,4 +1,4 @@
-<p>### Olá 👋, Eu sou Gabriel Barros de Almeida, desenvolvedor C# capixaba.</p>
+<h1>### Olá 👋, Eu sou Gabriel Barros de Almeida, desenvolvedor C# capixaba.</h1>
 
 
 
@@ -18,11 +18,11 @@
   </div>
   
   <br><br>
-  <p> 📫 Como entrar em contato comigo: </p>
+  <h3> 📫 Como entrar em contato comigo: </h3>
   <ul>
     <li><a href="https://api.whatsapp.com/send?phone=5528999881802">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Icon"/>
-        &ensp;- Whatsapp</li>
+      &ensp;- Whatsapp</a></li>
     <li><a href="https://twitter.com/Gabriel67594153" style="text-decoration: none, color: white;">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon"/>&ensp;- Twitter</a> </li>
     <li><a href="https://www.instagram.com/gabrielalmeidabarros/">
