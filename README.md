@@ -2,11 +2,15 @@
 
 
 
-- 🔭 Hoje estou trabalhando com projetos próprios em C# com realidade aumentada via Unity.
-- 🌱 Estudando C# .net framework, focando em soluções backend.
-- 👯 Interessado em contribuir com projetos desafiadores e adquirir novos conhecimentos
-- 📫 Como entrar em contato comigo: Tel - (28) 99988-1802. Twitter - https://twitter.com/Gabriel67594153 Instagram - https://www.instagram.com/gabrielalmeidabarros/
-- ⚡ Fatos interessantes: Participante de projetos de tecnologia desdo Fundamental, FLL ES 2015 e 2016, INOVA ES 2017 e 2018, competição ADERES 2019 e projeto centelha 2022.
+  <div align="center">
+    <ul>
+      <li>🔭 Hoje estou trabalhando com projetos próprios em C# com realidade aumentada via Unity.</li>
+      <li>🌱 Estudando C# .net framework, focando em soluções backend.</li>
+      <li>👯 Interessado em contribuir com projetos desafiadores e adquirir novos conhecimentos.</li>
+      <li>📫 Como entrar em contato comigo: <a href="https://api.whatsapp.com/send?phone=5528999881802"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Icon"/>Whatsapp - (28) 99988-1802.</a> <a href="https://twitter.com/Gabriel67594153"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon"/>Twitter - https://twitter.com/Gabriel67594153</a> <a href="https://www.instagram.com/gabrielalmeidabarros/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon"/>Instagram - https://www.instagram.com/gabrielalmeidabarros/</a> <a href="https://br.linkedin.com/in/gabriel-barros-de-almeida-908911208"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkedin Icon"/>Linkedin - https://br.linkedin.com/in/gabriel-barros-de-almeida-908911208.</a></li>
+      <li>⚡ Fatos interessantes: Participante de projetos de tecnologia desdo Fundamental, FLL ES 2015 e 2016, INOVA ES 2017 e 2018, competição ADERES 2019 e projeto centelha 2022.</li>
+    </ul>
+  </div>
 
   <div align="center">
     <a href="https://github.com/Yesod-star">
