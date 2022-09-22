@@ -23,13 +23,13 @@
   <ul>
     <li><a href="https://api.whatsapp.com/send?phone=5528999881802">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Icon"/>
-        -Whatsapp - (28) 99988-1802.</a> </li>
+        &ensp;Whatsapp - (28) 99988-1802.</a> </li>
     <li><a href="https://twitter.com/Gabriel67594153">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon"/>-Twitter - https://twitter.com/Gabriel67594153</a> </li>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon"/>&ensp;Twitter - https://twitter.com/Gabriel67594153</a> </li>
     <li><a href="https://www.instagram.com/gabrielalmeidabarros/">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon"/>-Instagram - https://www.instagram.com/gabrielalmeidabarros/</a> </li>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon"/>&ensp;Instagram - https://www.instagram.com/gabrielalmeidabarros/</a> </li>
     <li><a href="https://br.linkedin.com/in/gabriel-barros-de-almeida-908911208">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkedin Icon"/>-Linkedin - https://br.linkedin.com/in/gabriel-barros-de-almeida-908911208.</a></li>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkedin Icon"/>&ensp;Linkedin - https://br.linkedin.com/in/gabriel-barros-de-almeida-908911208.</a></li>
   </ul>
   
   <br><br>
