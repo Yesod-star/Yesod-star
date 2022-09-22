@@ -16,18 +16,20 @@
 
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <i class="devicon-bitbucket-original"></i>
-  <i class="devicon-bootstrap-plain"></i>
-  <i class="devicon-csharp-plain"></i>
-  <i class="devicon-css3-plain"></i>
-  <i class="devicon-dot-net-plain"></i>
-  <i class="devicon-dotnetcore-plain"></i>
-  <i class="devicon-git-plain"></i>
-  <i class="devicon-github-original"></i>
-  <i class="devicon-html5-plain"></i>
-  <i class="devicon-javascript-plain"></i>
-  <i class="devicon-mysql-plain"></i>
-  <i class="devicon-photoshop-plain"></i>
-  <i class="devicon-unity-original"></i>
-  <i class="devicon-visualstudio-plain"></i>
+  <div>
+    <i class="devicon-bitbucket-original"></i>
+    <i class="devicon-bootstrap-plain"></i>
+    <i class="devicon-csharp-plain"></i>
+    <i class="devicon-css3-plain"></i>
+    <i class="devicon-dot-net-plain"></i>
+    <i class="devicon-dotnetcore-plain"></i>
+    <i class="devicon-git-plain"></i>
+    <i class="devicon-github-original"></i>
+    <i class="devicon-html5-plain"></i>
+    <i class="devicon-javascript-plain"></i>
+    <i class="devicon-mysql-plain"></i>
+    <i class="devicon-photoshop-plain"></i>
+    <i class="devicon-unity-original"></i>
+    <i class="devicon-visualstudio-plain"></i>
+  </div>
 
