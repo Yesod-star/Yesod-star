@@ -2,7 +2,7 @@
 
 
 
-  <div align="center">
+  <div align="left">
     <ul>
       <li>🔭 Hoje estou trabalhando com projetos próprios em C# com realidade aumentada via Unity.</li>
       <li>🌱 Estudando C# .net framework, focando em soluções backend.</li>
