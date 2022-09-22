@@ -18,17 +18,17 @@
   <div>
     <img align="center" height="30" width="40" alt="bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"></img>
     <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></img>
-    <i class="devicon-csharp-plain"></i>
-    <i class="devicon-css3-plain"></i>
-    <i class="devicon-dot-net-plain"></i>
-    <i class="devicon-dotnetcore-plain"></i>
-    <i class="devicon-git-plain"></i>
-    <i class="devicon-github-original"></i>
-    <i class="devicon-html5-plain"></i>
-    <i class="devicon-javascript-plain"></i>
-    <i class="devicon-mysql-plain"></i>
-    <i class="devicon-photoshop-plain"></i>
-    <i class="devicon-unity-original"></i>
-    <i class="devicon-visualstudio-plain"></i>
+    <img align="center" height="30" width="40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></img>
+    <img align="center" height="30" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></img>
+    <img align="center" height="30" width="40" alt="dot-net" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></img>
+    <img align="center" height="30" width="40" alt="dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></img>
+    <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img>
+    <img align="center" height="30" width="40" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></img>
+    <img align="center" height="30" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
+    <img align="center" height="30" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
+    <img align="center" height="30" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></img>
+    <img align="center" height="30" width="40" alt="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"></img>
+    <img align="center" height="30" width="40" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></img>
+    <img align="center" height="30" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"></img>
   </div>
 
