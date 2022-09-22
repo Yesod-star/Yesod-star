@@ -51,6 +51,6 @@
     <img align="center" height="30" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></img>
   </div>
   
-  ![snake gif](https://github.com/Yesod-star/Yesod-star/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/Yesod-star/Yesod-star/blob/output/github-contribution-grid-snake.svg)
   ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
   ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
