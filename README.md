@@ -17,7 +17,7 @@
   
   <div>
     <img align="center" height="30" width="40" alt="bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"></img>
-    <i class="devicon-bootstrap-plain"></i>
+    <img align="center" height="30" width="40" alt="bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bootstrap-original.svg"></img>
     <i class="devicon-csharp-plain"></i>
     <i class="devicon-css3-plain"></i>
     <i class="devicon-dot-net-plain"></i>
