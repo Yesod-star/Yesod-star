@@ -29,6 +29,6 @@
     <img align="center" height="30" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></img>
     <img align="center" height="30" width="40" alt="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></img>
     <img align="center" height="30" width="40" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></img>
-    <img align="center" height="30" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"></img>
+    <img align="center" height="30" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></img>
   </div>
 
