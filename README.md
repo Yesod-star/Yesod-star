@@ -15,9 +15,8 @@
 </div>
 
   
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <div>
-    <i class="devicon-bitbucket-original"></i>
+    <img align="center" height="30" width="40" alt="bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"></img>
     <i class="devicon-bootstrap-plain"></i>
     <i class="devicon-csharp-plain"></i>
     <i class="devicon-css3-plain"></i>
