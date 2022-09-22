@@ -27,7 +27,7 @@
     <img align="center" height="30" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
     <img align="center" height="30" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
     <img align="center" height="30" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></img>
-    <img align="center" height="30" width="40" alt="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"></img>
+    <img align="center" height="30" width="40" alt="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></img>
     <img align="center" height="30" width="40" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></img>
     <img align="center" height="30" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"></img>
   </div>
