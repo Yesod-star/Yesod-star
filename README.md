@@ -23,8 +23,6 @@
     <li><a href="https://api.whatsapp.com/send?phone=5528999881802" style="color: white;">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Icon"/>
       </a></li>
-    <li><a href="https://twitter.com/Gabriel67594153">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon"/></a> </li>
     <li><a href="https://www.instagram.com/gabrielalmeidabarros/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon"/></a></li>
     <li><a href="https://br.linkedin.com/in/gabriel-barros-de-almeida-908911208">
