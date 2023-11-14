@@ -7,7 +7,7 @@
       <li>🔭 Hoje estou trabalhando com projetos próprios em C# com realidade aumentada via Unity.</li>
       <li>🌱 Estudando C# .net framework, focando em soluções backend.</li>
       <li>👯 Interessado em contribuir com projetos desafiadores e adquirir novos conhecimentos.</li>
-      <li>⚡ Fatos interessantes: Participante de projetos de tecnologia desdo Fundamental, FLL ES 2015 e 2016, INOVA ES 2017 e 2018, competição ADERES 2019 e projeto centelha 2022.</li>
+      <li>⚡ Fatos interessantes: Participante de projetos de tecnologia desde o fundamental, FLL ES 2015 e 2016, INOVA ES 2017 e 2018, competição ADERES 2019 e projeto centelha 2022.</li>
     </ul>
   </div>
 
