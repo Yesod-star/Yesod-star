@@ -1,16 +1,25 @@
-<h1>### Olá 👋, Eu sou Gabriel Barros de Almeida, desenvolvedor C# capixaba.</h1>
+<h1>👋 Olá, eu sou Gabriel Barros de Almeida</h1>
 
+  <p>Sou <strong>desenvolvedor de software</strong>, Bacharel em Sistemas de Informação (2021). Já atuei como suporte técnico, desenvolvedor e também como instrutor de computação.</p>
+  
+  <p>Nos últimos anos trabalhei em projetos bem diversos: <strong>e-commerces, sistemas governamentais, sites pessoais, migradores, aplicativos mobile, desktop e até aplicativos de TV</strong>.<br>
+  Já apliquei diversas tecnologias como <strong>.NET Core / Framework, Entity Framework Core, Angular, React, SQL Server, PHP, Java, Docker, DevExpress</strong>, entre outras.</p>
+  
+  <h2>🚀 Algumas conquistas</h2>
+  <ul>
+    <li>📑 Construção de uma aplicação de capacitação com emissão de certificados</li>
+    <li>📊 Implementação e padronização de dashboards para análise e tomada de decisão</li>
+    <li>🧩 Criação de um <strong>site puzzle interativo</strong> para auxiliar alunos no aprendizado de programação</li>
+  </ul>
+  
+  <h2>🌱 Hoje</h2>
+  <ul>
+    <li>Focado em <strong>.NET Core e DevExpress</strong>, no tempo livre dando aula no <strong>SENAI</strong></li>
+    <li>Trabalhando em projetos <strong>DevExpress em C#</strong> para prefeituras</li>
+    <li>Sempre buscando novos desafios e oportunidades de aprendizado</li>
+  </ul>
 
-
-  <div align="left">
-    <ul>
-      <li>🔭 Hoje estou trabalhando com projetos devexpress em C# para prefeituras, além de projetos próprios.</li>
-      <li>🌱 Se aprofundando em C# usando .net CORE, focando em soluções backend.</li>
-      <li>😎 Prefiro modelos DDD(Domain Driven Design) e costumo usar SQL server </li>
-      <li>👯 Interessado em contribuir com projetos desafiadores e adquirir novos conhecimentos.</li>
-      <li>⚡ Fatos interessantes: Participante de projetos de tecnologia desde o fundamental, FLL ES 2015 e 2016, INOVA ES 2017 e 2018, competição ADERES 2019 e projeto centelha 2022.</li>
-    </ul>
-  </div>
+  <p>📫 Conecte-se comigo no <a href="https://linkedin.com/in/seu-linkedin">LinkedIn</a> ou veja mais aqui no GitHub.</p>
 
   <div align="center">
     <a href="https://github.com/Yesod-star">
